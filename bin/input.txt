@@ -1,0 +1,13 @@
+{
+	"countPoints":20,
+	"bornTime":2.5,
+	"lifeTime":2.0,
+	
+	"pointScore":100,
+	
+	"minBubbleSpeed":20,
+	"maxBubbleSpeed":100,
+	"bubbleTextureScale":0.5,
+	"dangerousBubbleTextureScale":0.75,
+	"dangerousBubbleMarkTextureScale":0.75
+}
